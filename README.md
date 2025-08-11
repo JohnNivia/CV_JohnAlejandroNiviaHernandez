@@ -12,7 +12,7 @@
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
 - Python
-- Java scrip
+- Javascrip
 - Power BI
 
 ## 🎓 Educación
