@@ -1,30 +1,23 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## John Alejandro Nivia Hernandez
+**Profesión:** _Analisis y desarrollo de Software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+
+- **Email:** [jhonnivia603@gmail.com](jhonnivia603@gmail.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Python, java scrip, Power BI
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz Analisis y desarrollo de software
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
-
+- **John Nivia es un aprendiz con conocimientos básicos de programación, motivado por llevar ideas a soluciones reales. Su proyecto principal es una herramienta para detectar distracción o somnolencia frente al computador, con enfoque en privacidad, facilidad de uso y seguridad contra evasiones.
+Elige Python y PyQt5 para un desarrollo rápido y mantenible, maneja control de versiones con GitHub y prioriza la optimización antes de añadir nuevas funciones. En trabajo en equipo, es flexible, escucha ideas, media en conflictos y busca aprender nuevas herramientas si aportan valor. En presentaciones, privilegia la claridad y la funcionalidad del producto.**
 ---
 
 ## 🎨 Formatos y Fuentes Disponibles
