@@ -7,10 +7,13 @@
 ## 📞 Contacto
 
 - **Email:** [jhonnivia603@gmail.com](jhonnivia603@gmail.com)
+- **Linkedin:**
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
-- Python, java scrip, Power BI
+- Python
+- Java scrip
+- Power BI
 
 ## 🎓 Educación
 ### **SENA** _(2025 - Actualidad)_
