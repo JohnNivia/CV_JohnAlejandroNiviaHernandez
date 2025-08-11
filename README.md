@@ -15,6 +15,10 @@
 ## 🎓 Educación
 ### **SENA** _(2025 - Actualidad)_
 - Aprendiz Analisis y desarrollo de software
+### **La Toscana Lisboa** _(2024)_
+-   Bachiller
+-   Tecnico en sistemas
+
 ## 💡 Habilidades
 - **John Nivia es un aprendiz con conocimientos básicos de programación, motivado por llevar ideas a soluciones reales. Su proyecto principal es una herramienta para detectar distracción o somnolencia frente al computador, con enfoque en privacidad, facilidad de uso y seguridad contra evasiones.
 Elige Python y PyQt5 para un desarrollo rápido y mantenible, maneja control de versiones con GitHub y prioriza la optimización antes de añadir nuevas funciones. En trabajo en equipo, es flexible, escucha ideas, media en conflictos y busca aprender nuevas herramientas si aportan valor. En presentaciones, privilegia la claridad y la funcionalidad del producto.**
