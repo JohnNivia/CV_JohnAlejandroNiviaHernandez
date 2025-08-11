@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## John Alejandro Nivia Hernandez
-**Profesión:** _Analisis y desarrollo de Software_
+**Profesión:** _Analista y desarrollador de Software_
 
 ## 📞 Contacto
 
